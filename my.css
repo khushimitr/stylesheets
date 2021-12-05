@@ -19,3 +19,8 @@
 body {
   color: rgb(250, 250,250);
   background-color: rgb(26,25,25);}
+
+#business_area_dropdown .VirtualizedSelectFocusedOption {
+  background-color: rgb(26,25,25);
+  color: white;
+}
