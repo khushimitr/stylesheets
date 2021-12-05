@@ -24,3 +24,11 @@ body {
   background-color: rgb(26,25,25);
   color: white;
 }
+
+#bigfoot-text-filter .Select-value-label {
+    color: white !important;
+}
+
+#bigfoot-text-filter .Select-control {
+    background-color: rgb(26,25,25);
+}
