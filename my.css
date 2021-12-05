@@ -20,11 +20,6 @@ body {
   color: rgb(250, 250,250);
   background-color: rgb(26,25,25);}
 
-#bigfoot-text-filter .VirtualizedSelectFocusedOption {
-  background-color: rgb(26,25,25);
-  color: white;
-}
-
 #bigfoot-text-filter .VirtualizedSelectOption {
   background-color: rgb(26,25,25);
   color: white;
